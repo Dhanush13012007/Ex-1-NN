@@ -75,19 +75,33 @@ print("\nYtrain:\n" ,Ytrain, "\nYtest:\n", Ytest)
 ```
 
 ## OUTPUT:
+
 <img width="1610" height="346" alt="Screenshot 2026-11-03 161733" src="https://github.com/user-attachments/assets/5234b486-1182-420b-86fc-3ee27eada58c" />
+
+
+
+
 
 <img width="415" height="533" alt="Screenshot 2026-11-03 161756" src="https://github.com/user-attachments/assets/aaa42796-5bdd-4ac6-8765-bdcfd2226573" />
 
+
+
+
 <img width="296" height="72" alt="Screenshot 2026-11-03 161802" src="https://github.com/user-attachments/assets/946b36ed-395b-4bdd-b1b2-2bd6cad0dd7b" />
 
+
+
 <img width="842" height="297" alt="Screenshot 2026-11-03 161811" src="https://github.com/user-attachments/assets/aa0150ea-1003-4e1b-980d-5d4f579b9476" />
+
 
 
 <img width="638" height="361" alt="Screenshot 2026-11-03 161818" src="https://github.com/user-attachments/assets/38bbef43-b6fe-4f3b-ad96-e589f01e6edf" />
 
 
+
 <img width="636" height="545" alt="Screenshot 2026-11-03 161824" src="https://github.com/user-attachments/assets/dba972cf-f7a2-4305-81b5-6c8fa72c5389" />
+
+
 
 <img width="597" height="188" alt="Screenshot 2026-11-03 161829" src="https://github.com/user-attachments/assets/84248457-870c-4b15-9bf7-8590a45b34de" />
 
